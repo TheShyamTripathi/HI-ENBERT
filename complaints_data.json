@@ -1,0 +1,674 @@
+[
+  {
+    "id": "CMP001",
+    "name": "Rahul Sharma",
+    "location": "Mumbai, Maharashtra",
+    "datetime": "2026-08-20 10:30:00",
+    "title": "Pothole on Main Road",
+    "description": "Large pothole on Main Road near Andheri station causing traffic jams",
+    "primary_category": "Road & Transportation",
+    "subcategory": "Pothole Repair",
+    "model_severity": "High",
+    "manual_severity": null,
+    "severity": "High",
+    "action_taken": "Pothole filled",
+    "status": "Resolved",
+    "resolution_date": "2026-08-25 05:42:17",
+    "assigned_to": "BMC Ward Office",
+    "priority": "High",
+    "department": "Public Works Department",
+    "sla_deadline": "2026-08-21 10:30:00",
+    "response_time": 0.0,
+    "resolution_time": 115.2,
+    "sla_met": false,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-20 10:30:00",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-20 10:30:00",
+        "event": "AI predicted severity: High"
+      },
+      {
+        "time": "2026-08-20 10:30:00",
+        "event": "Assigned to BMC Ward Office"
+      },
+      {
+        "time": "2026-08-25 05:42:17",
+        "event": "Resolved - Pothole filled"
+      },
+      {
+        "time": "2026-09-19 05:22:13",
+        "event": "Feedback: 3/5 stars"
+      }
+    ],
+    "feedback_rating": 3,
+    "feedback_comments": "late resolved",
+    "schema_version": 3
+  },
+  {
+    "id": "CMP002",
+    "name": "Priya Patel",
+    "location": "Delhi",
+    "datetime": "2026-08-21 09:15:00",
+    "title": "Water Leakage in Colony",
+    "description": "Water pipeline burst in Sector 15, water logging on streets",
+    "primary_category": "Water Leakage",
+    "subcategory": "Pipeline Burst",
+    "model_severity": "High",
+    "manual_severity": null,
+    "severity": "High",
+    "action_taken": "Pipeline repair in progress",
+    "status": "Resolved",
+    "resolution_date": "2026-08-25 04:02:03",
+    "assigned_to": "Delhi Jal Board",
+    "priority": "Critical",
+    "department": "Water Supply Department",
+    "sla_deadline": "2026-08-22 09:15:00",
+    "response_time": 0.0,
+    "resolution_time": 90.8,
+    "sla_met": false,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-21 09:15:00",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-21 09:15:00",
+        "event": "AI predicted severity: High"
+      },
+      {
+        "time": "2026-08-21 09:15:00",
+        "event": "Assigned to Delhi Jal Board"
+      },
+      {
+        "time": "2026-08-25 04:02:03",
+        "event": "Resolved - Pipeline repair in progress"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP003",
+    "name": "Amit Kumar",
+    "location": "Bengaluru, Karnataka",
+    "datetime": "2026-08-21 11:45:00",
+    "title": "Street Light Not Working",
+    "description": "Street lights on MG Road have been non-functional for 2 weeks",
+    "primary_category": "Electricity",
+    "subcategory": "Street Light Repair",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "severity": "Medium",
+    "action_taken": "Complaint registered with BBMP",
+    "status": "Resolved",
+    "resolution_date": "2026-09-02 06:45:21",
+    "assigned_to": "BBMP",
+    "priority": "Medium",
+    "department": "Electricity Board",
+    "sla_deadline": "2026-08-24 11:45:00",
+    "response_time": 0.0,
+    "resolution_time": 283.0,
+    "sla_met": false,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-21 11:45:00",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-21 11:45:00",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-08-21 11:45:00",
+        "event": "Assigned to BBMP"
+      },
+      {
+        "time": "2026-09-02 06:45:21",
+        "event": "Resolved - Complaint registered with BBMP"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP004",
+    "name": "Sneha Reddy",
+    "location": "Hyderabad, Telangana",
+    "datetime": "2026-08-22 08:00:00",
+    "title": "Garbage Collection Issue",
+    "description": "Garbage not collected for 3 days in our locality, foul smell",
+    "primary_category": "Waste Management",
+    "subcategory": "Garbage Collection",
+    "model_severity": "High",
+    "manual_severity": null,
+    "severity": "High",
+    "action_taken": "GHMC vehicles dispatched",
+    "status": "Resolved",
+    "resolution_date": "2026-08-23 16:30:00",
+    "assigned_to": "GHMC",
+    "priority": "High",
+    "department": "Sanitation Department",
+    "sla_deadline": "2026-08-23 08:00:00",
+    "response_time": 0.0,
+    "resolution_time": 32.5,
+    "sla_met": false,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-22 08:00:00",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-22 08:00:00",
+        "event": "AI predicted severity: High"
+      },
+      {
+        "time": "2026-08-22 08:00:00",
+        "event": "Assigned to GHMC"
+      },
+      {
+        "time": "2026-08-23 16:30:00",
+        "event": "Resolved - GHMC vehicles dispatched"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP005",
+    "name": "Shyam Tripathi",
+    "location": "Vengal Chennai",
+    "datetime": "2026-08-24 15:03:08",
+    "title": "Regarding the Student Safety",
+    "description": "Near the college transformer always sparking and the wire is not insulated properly can cause the current flow near by area in ground. that is very risky",
+    "primary_category": "Electricity",
+    "subcategory": "Electrical Infrastructure",
+    "model_severity": "Medium",
+    "manual_severity": "High",
+    "severity": "High",
+    "action_taken": "Awaiting action",
+    "status": "Escalated",
+    "resolution_date": null,
+    "assigned_to": "Electrical Maintenance Team",
+    "priority": "Critical",
+    "department": "Electricity Board",
+    "sla_deadline": "2026-08-25 15:03:08",
+    "response_time": 0.0,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": true,
+    "escalation_reason": "Escalated to the higher respecitve authority",
+    "timeline": [
+      {
+        "time": "2026-08-24 15:03:08",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-24 15:03:08",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-08-24 15:03:08",
+        "event": "Assigned to Electrical Maintenance Team"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Medium → Critical (unresolved for ≥7 days)"
+      },
+      {
+        "time": "2026-09-18 05:11:56",
+        "event": "✏️ Officer override: Critical → High | Reason: Student Safety se Juda huwa hai isliye"
+      },
+      {
+        "time": "2026-09-18 05:14:32",
+        "event": "🚨 ESCALATED: Escalated to the higher respecitve authority"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP006",
+    "name": "Binay Kushwaha",
+    "location": "Vengal Chennai",
+    "datetime": "2026-08-25 04:00:55",
+    "title": "Bad Smell in Amrita College",
+    "description": "while going to the gym or field, it smells so bad that i have to cover my nose until i corss that path,  There is improved management of waste recycling and water treatment plant . Itn should be taken into account and fixed on time.",
+    "primary_category": "Waste Management",
+    "subcategory": "Waste Segregation & Processing",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "severity": "Critical",
+    "action_taken": "Already Informed to the garbage collector team",
+    "status": "In Progress",
+    "resolution_date": null,
+    "assigned_to": "Sanitation Team",
+    "priority": "Critical",
+    "department": "Sanitation Department",
+    "sla_deadline": "2026-09-01 04:00:55",
+    "response_time": 577.2,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-25 04:00:55",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-25 04:00:55",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-08-25 04:00:55",
+        "event": "Assigned to Sanitation Team"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Medium → Critical (unresolved for ≥7 days)"
+      },
+      {
+        "time": "2026-09-18 05:12:59",
+        "event": "Status: Pending → In Progress | Already Informed to the garbage collector team"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP007",
+    "name": "Shyam",
+    "location": "Vengal",
+    "datetime": "2026-08-25 05:23:53",
+    "title": "Illegal Garbage Dumping",
+    "description": "कुछ लोग सड़क के किनारे लगातार कूड़ा फेंक रहे हैं। कृपया इस स्थान की सफाई करवाकर उचित कार्रवाई करें।",
+    "primary_category": "Waste Management",
+    "subcategory": "Garbage Dumping & Black Spots",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "severity": "Critical",
+    "action_taken": "Action taken against the responsible people and given direction to resolve the things earliest.",
+    "status": "In Progress",
+    "resolution_date": null,
+    "assigned_to": "Sanitation Team",
+    "priority": "Critical",
+    "department": "Sanitation Department",
+    "sla_deadline": "2026-09-01 05:23:53",
+    "response_time": 589.0,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-25 05:23:53",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-25 05:23:53",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-08-25 05:23:53",
+        "event": "Assigned to Sanitation Team"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Medium → Critical (unresolved for ≥7 days)"
+      },
+      {
+        "time": "2026-09-18 18:25:55",
+        "event": "Status: Pending → In Progress | Action taken against the responsible people and given direction to resolve the things earliest."
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP008",
+    "name": "Hridayesh",
+    "location": "Hyderabad",
+    "datetime": "2026-08-25 05:40:27",
+    "title": "Water Supply Problem",
+    "description": "Do din se hamare area mein proper water supply nahi aa rahi hai. Please issue ko jaldi resolve karein.",
+    "primary_category": "Water Leakage",
+    "subcategory": "Water Supply Issues",
+    "model_severity": "Low",
+    "manual_severity": null,
+    "severity": "High",
+    "action_taken": "Awaiting action",
+    "status": "Pending",
+    "resolution_date": null,
+    "assigned_to": "Water Works Team",
+    "priority": "Critical",
+    "department": "Water Supply Department",
+    "sla_deadline": "2026-09-08 05:40:27",
+    "response_time": null,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-25 05:40:27",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-25 05:40:27",
+        "event": "AI predicted severity: Low"
+      },
+      {
+        "time": "2026-08-25 05:40:27",
+        "event": "Assigned to Water Works Team"
+      },
+      {
+        "time": "2026-09-08 12:00:00",
+        "event": "⬆️ Severity escalated: Low → Medium (unresolved for ≥7 days)"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Low → High (unresolved for ≥14 days)"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP009",
+    "name": "hridayesh",
+    "location": "hyderabad",
+    "datetime": "2026-08-25 08:32:13",
+    "title": "road light",
+    "description": "lights are not working",
+    "primary_category": "Electricity",
+    "subcategory": "Streetlights & Public Lighting",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "severity": "Critical",
+    "action_taken": "Awaiting action",
+    "status": "Pending",
+    "resolution_date": null,
+    "assigned_to": "Electrical Maintenance Team",
+    "priority": "Critical",
+    "department": "Electricity Board",
+    "sla_deadline": "2026-09-01 08:32:13",
+    "response_time": null,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-08-25 08:32:13",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-08-25 08:32:13",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-08-25 08:32:13",
+        "event": "Assigned to Electrical Maintenance Team"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Medium → Critical (unresolved for ≥7 days)"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "id": "CMP010",
+    "name": "Aniket",
+    "location": "Vengal",
+    "datetime": "2026-09-02 06:46:45",
+    "title": "Wifi Not working in hostel",
+    "description": "Aitheryha bhavan room no 109 wifi is not working since 2 days. It's very urgent to repair",
+    "primary_category": "Electricity",
+    "subcategory": "Power Supply Issues",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "severity": "Critical",
+    "action_taken": "Awaiting action",
+    "status": "Pending",
+    "resolution_date": null,
+    "assigned_to": "Electrical Maintenance Team",
+    "priority": "Critical",
+    "department": "Electricity Board",
+    "sla_deadline": "2026-09-09 06:46:45",
+    "response_time": null,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "timeline": [
+      {
+        "time": "2026-09-02 06:46:45",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-09-02 06:46:45",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-09-02 06:46:45",
+        "event": "Assigned to Electrical Maintenance Team"
+      },
+      {
+        "time": "2026-09-18 12:00:00",
+        "event": "⬆️ Severity escalated: Medium → Critical (unresolved for ≥7 days)"
+      }
+    ],
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3
+  },
+  {
+    "name": "Shiva Tripathi",
+    "location": "Lucknow",
+    "datetime": "2026-09-18 05:09:14",
+    "title": "Crack in the Bridges and Potholes on road",
+    "description": "Dear Sir, Main aapko inform karna chahata hun ki hamare village k najik wale bridges pe crack aa chuka hai aur uske upar sadak par gaddhe ho chuke hai. Jisse accident ka khatra kafi badh chuka hai kripya iska jald se jald marmmat karwaye. Dhanyabad.",
+    "primary_category": "Road & Transportation",
+    "subcategory": "Road Damage & Potholes",
+    "severity": "Medium",
+    "id": "CMP011",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "priority": "Medium",
+    "department": "Public Works Department",
+    "assigned_to": "Road Maintenance Team",
+    "status": "Resolved",
+    "action_taken": "Auto-assigned to Road Maintenance Team",
+    "resolution_date": "2026-09-19 05:25:22",
+    "sla_deadline": "2026-09-21 05:09:14",
+    "response_time": 24.3,
+    "resolution_time": 24.3,
+    "sla_met": true,
+    "escalated": false,
+    "escalation_reason": null,
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3,
+    "timeline": [
+      {
+        "time": "2026-09-18 05:09:14",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-09-18 05:09:15",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-09-18 05:09:15",
+        "event": "Auto-assigned to Road Maintenance Team (Public Works Department)"
+      },
+      {
+        "time": "2026-09-19 05:25:22",
+        "event": "Status: Pending → Resolved | Auto-assigned to Road Maintenance Team"
+      }
+    ]
+  },
+  {
+    "name": "Hari Prakash",
+    "location": "Tiruvallur",
+    "datetime": "2026-09-18 17:58:13",
+    "title": "Illegal Encroachment in Public park",
+    "description": "Dear Sir, I want you to inform that from few weeks some people are illegally built the tent on the tiruvallur children park which makes children difficult to play. When local people asked them to remove the tent they are denying. Kindly please take the action and make the park free for children asap.",
+    "primary_category": "Encroachment & Illegal Construction",
+    "subcategory": "Land & Property Encroachment",
+    "severity": "Medium",
+    "id": "CMP012",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "priority": "Medium",
+    "department": "General Administration",
+    "assigned_to": "General Team",
+    "status": "Pending",
+    "action_taken": "Auto-assigned to General Team",
+    "resolution_date": null,
+    "sla_deadline": "2026-09-21 17:58:13",
+    "response_time": null,
+    "resolution_time": null,
+    "sla_met": null,
+    "escalated": false,
+    "escalation_reason": null,
+    "feedback_rating": null,
+    "feedback_comments": null,
+    "schema_version": 3,
+    "timeline": [
+      {
+        "time": "2026-09-18 17:58:13",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-09-18 17:58:13",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-09-18 17:58:13",
+        "event": "Auto-assigned to General Team (General Administration)"
+      }
+    ]
+  },
+  {
+    "name": "Shiv Prakash",
+    "location": "Vengal College",
+    "datetime": "2026-09-18 18:22:37",
+    "title": "Wastage of Water",
+    "description": "Dear sir/mam,\nmain aapko suchit karna chahata hun ki hostel no 12 k piche ek pipe se lagatar pani aaraha hai sayad wo pipe me leakage hai ya pipe fat chuka hai. Jiske karan se kafi sara pani ka nuksan ho raha hai aur ground bhi pura pani se gila ho chuka kripya uska kux samadhan nikale.",
+    "primary_category": "Water Leakage",
+    "subcategory": "Water Leakage & Wastage",
+    "severity": "Low",
+    "id": "CMP013",
+    "model_severity": "Low",
+    "manual_severity": null,
+    "priority": "Low",
+    "department": "Water Supply Department",
+    "assigned_to": "Water Works Team",
+    "status": "Resolved",
+    "action_taken": "Auto-assigned to Water Works Team",
+    "resolution_date": "2026-09-18 18:28:41",
+    "sla_deadline": "2026-09-25 18:22:37",
+    "response_time": 0.1,
+    "resolution_time": 0.1,
+    "sla_met": true,
+    "escalated": false,
+    "escalation_reason": null,
+    "feedback_rating": 4,
+    "feedback_comments": "Good",
+    "schema_version": 3,
+    "timeline": [
+      {
+        "time": "2026-09-18 18:22:37",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-09-18 18:22:38",
+        "event": "AI predicted severity: Low"
+      },
+      {
+        "time": "2026-09-18 18:22:38",
+        "event": "Auto-assigned to Water Works Team (Water Supply Department)"
+      },
+      {
+        "time": "2026-09-18 18:28:41",
+        "event": "Status: Pending → Resolved | Auto-assigned to Water Works Team"
+      },
+      {
+        "time": "2026-09-19 04:15:11",
+        "event": "Feedback: 4/5 stars"
+      }
+    ]
+  },
+  {
+    "name": "Shyam Tripathi",
+    "location": "Vengal",
+    "datetime": "2026-09-19 05:47:15",
+    "title": "Road par pothole",
+    "description": "Main road par ek bada pothole hai. Isse vehicles ko problem ho rahi hai.",
+    "primary_category": "Road & Transportation",
+    "subcategory": "Road Damage & Potholes",
+    "severity": "Medium",
+    "id": "CMP014",
+    "model_severity": "Medium",
+    "manual_severity": null,
+    "priority": "Medium",
+    "department": "Public Works Department",
+    "assigned_to": "Road Maintenance Team",
+    "status": "Resolved",
+    "action_taken": "action already taken",
+    "resolution_date": "2026-09-19 05:48:44",
+    "sla_deadline": "2026-09-22 05:47:15",
+    "response_time": 0.0,
+    "resolution_time": 0.0,
+    "sla_met": true,
+    "escalated": false,
+    "escalation_reason": null,
+    "feedback_rating": 5,
+    "feedback_comments": "ok fine good work",
+    "schema_version": 3,
+    "timeline": [
+      {
+        "time": "2026-09-19 05:47:15",
+        "event": "Complaint registered"
+      },
+      {
+        "time": "2026-09-19 05:47:16",
+        "event": "AI predicted severity: Medium"
+      },
+      {
+        "time": "2026-09-19 05:47:16",
+        "event": "Auto-assigned to Road Maintenance Team (Public Works Department)"
+      },
+      {
+        "time": "2026-09-19 05:48:44",
+        "event": "Status: Pending → Resolved | action already taken"
+      },
+      {
+        "time": "2026-09-19 05:49:29",
+        "event": "Feedback: 5/5 stars"
+      }
+    ]
+  }
+]
