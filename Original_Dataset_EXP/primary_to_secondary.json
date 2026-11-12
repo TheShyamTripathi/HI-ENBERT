@@ -1,0 +1,57 @@
+{
+    "Electricity": [
+        "Electrical Infrastructure",
+        "Others",
+        "Power Supply Issues",
+        "Streetlights & Public Lighting"
+    ],
+    "Encroachment & Illegal Construction": [
+        "Land & Property Encroachment",
+        "Others",
+        "Unauthorized Construction"
+    ],
+    "Health & Sanitation": [
+        "Drainage & Sewage",
+        "Others",
+        "Public Hygiene",
+        "Public Toilets"
+    ],
+    "Others": [
+        "Animal & Organic Waste",
+        "Lake & Public Space Encroachment",
+        "Others",
+        "Public Transport Services",
+        "Road Damage & Potholes"
+    ],
+    "Public Safety": [
+        "Fire Safety",
+        "Others",
+        "Public Nuisance"
+    ],
+    "Road & Transportation": [
+        "Footpaths & Pedestrian Infrastructure",
+        "Others",
+        "Parking Issues",
+        "Road Damage & Potholes",
+        "Surveillance & Policing",
+        "Traffic Management & Violations",
+        "Traffic Rule Violations"
+    ],
+    "Waste Management": [
+        "Construction & Debris Waste",
+        "Drainage & Sewage",
+        "Garbage Collection",
+        "Garbage Dumping & Black Spots",
+        "Mosquito & Pest Control",
+        "Others",
+        "Street Cleanliness",
+        "Waste Segregation & Processing"
+    ],
+    "Water Leakage": [
+        "Others",
+        "Water Leakage & Wastage",
+        "Water Pipeline & Infrastructure",
+        "Water Quality & Metering",
+        "Water Supply Issues"
+    ]
+}
